@@ -1,5 +1,6 @@
 # Old Reddit Redirector
 
+
 ## Description
 
 This is a Chrome Extension that redirects pages on the "www.reddit.com" domain to the "old.reddit.com" domain. It's perfect for people that prefer the pre-2018 layout of Reddit. This project helped me familiarize myself with the components of a browser extension in Google Chrome and helped me apply some of the beginner knowledge I have of Javascript.
