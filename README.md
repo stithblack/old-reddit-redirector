@@ -1,4 +1,4 @@
-# <Old Reddit Redirector>
+## <Old Reddit Redirector>
 
 ## Description
 
